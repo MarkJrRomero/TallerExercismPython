@@ -4,3 +4,4 @@ Commit #3 (Guido's Gorgeous Lasagna) 1
 Commit #4 (Gigasecond) 2
 Commit #5 (two-fer) 3
 Commit #6 (markdown) 4
+Commit #7 (Currency Exchange) 5
